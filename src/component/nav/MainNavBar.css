@@ -1,0 +1,55 @@
+.form-control {
+    width: 400px !important
+  }
+
+  .text{
+      color: #000000 !important;
+      
+      
+  }
+
+  .f-w{
+      width: 100% !important;
+  }
+
+/* margin top */
+  .mt-mt {
+      margin-top: 70px !important;
+  }
+
+   /* text align, text transformation, font-size */
+  .txt-c{
+       display: block;
+       
+      text-transform: capitalize !important;
+      font-size: 25px !important;
+  }
+
+  .txt-40 {
+    text-decoration: underline rgb(255, 0, 0.5);
+  }
+ 
+  /* button styling */
+  .btn-mt{
+      margin-top: 16px;
+      font-size: 20px;
+
+      
+      
+  }
+  
+  /* styling the third select form  */
+  .w-3f{
+     
+      width: 100% !important;
+
+  }
+
+
+  /* shiffting the right button  */
+
+  .btn-s{
+      width: 65% !important;
+      padding: auto !important;
+      
+  }
